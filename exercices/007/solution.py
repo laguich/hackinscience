@@ -1,2 +1,2 @@
 #! /usr/bin/python
-print(list("['Hello wolrd']"), list("42"))
+print(list("['Hello wolrd', 42])
