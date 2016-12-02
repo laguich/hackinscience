@@ -1,5 +1,5 @@
 #! /usr/bin/python
 a={"H", "e", "l", "l", "o", " ", "W", "o", "r", "l", "d", " ", "!"}
 for i in range(12):
-i = 10
+i = 12
 print(a)
