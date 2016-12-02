@@ -1,15 +1,4 @@
 #! /usr/bin/python
-print("h"
-"e"
-"l"
-"l"
-"o"
-
-"W"
-"o"
-"r"
-"l"
-"d"
-" "
-"!")
-
+a={"H", "e", "l", "l", "o", " ", "W", "o", "r", "l", "d", " ", "!"}
+for i in range (12):
+	print(a[i]))
