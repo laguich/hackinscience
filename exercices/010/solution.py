@@ -1,5 +1,4 @@
 #! /usr/bin/python
-import split
 split(phantom_menace = """Turmoil has engulfed the Galactic Republic. The\
  taxation of trade routes to outlying star systems is in\
  dispute. Hoping to resolve the matter with a blockade of deadly\
