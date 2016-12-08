@@ -1,4 +1,4 @@
 #! /usr/bin/python
-string = "Hello Wolrd !"
+string = "Hello World !"
 for x in string:
     print(x)
